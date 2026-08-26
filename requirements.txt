@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+tavily-python
+chromadb
+langchain
+langchain-google-genai
+pydantic
